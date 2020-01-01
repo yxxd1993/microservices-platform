@@ -39,6 +39,7 @@
 * 非常适合学习和企业中使用
 >重构于开源项目OCP&cp：https://gitee.com/owenwangwen/open-capacity-platform
 
+https://www.kancloud.cn/zlt2000/microservices-platform/936236
 &nbsp;
 
 ## 2. 项目总体架构图
